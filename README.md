@@ -7,3 +7,4 @@ ZCZC W04 do demo W04
 ZCZC W05 do demo W05
 ZCZC W06 do demo W06
 ZCZC W07 do demo W07
+ZCZC W08 do demo W08
